@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm Sarvesh Chandran, a B.Tech Computer Science student passionate about coding, algorithms, and AI! 🚀<br><br>    🔭 Currently learning: Neural Networks and their applications.<br>    🌱 Interests: AI/ML, Mathematics, and tech innovation.<br>    📚 Side hustle: Recommending and discussing mangas, animes and manhwas on YouTube. 🎥
+# Hello World!, I'm Sarvesh : 
+🔭 Currently learning: Neural Networks and their applications.<br>    🌱 Interests: AI/ML, Mathematics, and tech innovation.<br>    📚 Side hustle: Recommending and discussing mangas, animes and manhwas on YouTube. 🎥
 
 
 ## 🌐 Socials:
