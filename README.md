@@ -1,3 +1,6 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
+
 # Hello World!, I'm Sarvesh : 
 🔭 Currently learning: Neural Networks and their applications.<br>    🌱 Interests: AI/ML, Mathematics, and tech innovation.<br>    📚 Side hustle: Recommending and discussing mangas, animes and manhwas on YouTube. 🎥
 
