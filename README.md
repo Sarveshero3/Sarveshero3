@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-🔭 Currently learning: Neural Networks and their applications.<br>    🌱 Interests: AI/ML, Mathematics, and AI research.<br>    📚 Side hustle: Recommending and discussing mangas, animes and manhwas on YouTube. 🎥
+🔭 Currently learning: Neural Networks and their applications.<br>    📚 Side hustle: Grinding in Genshin Impact.<br>
 
 
 ## 🌐 Socials:
@@ -18,6 +18,7 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarveshero3&amp;theme=dark" alt="Sarveshero3"></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%">
+
 ![](https://github-readme-stats.vercel.app/api?username=Sarveshero3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sarveshero3&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarveshero3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
