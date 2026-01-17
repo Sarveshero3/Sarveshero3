@@ -11,13 +11,6 @@
 # 📊 GitHub Stats:
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarveshero3&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="Sarveshero3"></p>
-<p><br><br><br><br><br><br><br></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sarveshero3&amp;show_icons=true&amp;theme=dark&amp;locale=en" alt="Sarveshero3"></p>
-<br><br><br><br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarveshero3&amp;theme=dark" alt="Sarveshero3"></p>
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%">
 
 ![](https://github-readme-stats.vercel.app/api?username=Sarveshero3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sarveshero3&theme=dark&hide_border=false)<br/>
