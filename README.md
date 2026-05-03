@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-🔭 Currently learning: Neural Networks and their applications.<br>    📚 Side hustle: Grinding in Genshin Impact.<br>
+🔭 Currently learning: Neural Networks and their applications.<br>    
 
 
 ## 🌐 Socials:
