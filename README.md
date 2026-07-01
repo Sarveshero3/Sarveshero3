@@ -36,41 +36,10 @@ Currently exploring transformer architectures while building practical AI projec
 </table>
 
 ---
-
-# 🛠 Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb" />
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,tensorflow,fastapi,mongodb,mysql,docker,aws,git,github&theme=dark" />
 </p>
-
-## AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-NumPy • Pandas • Matplotlib • Scikit-Learn • SciPy • Hugging Face • Plotly
-
 ---
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,git,github,linux" />
-</p>
-
-REST APIs • OpenAPI
-
----
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,anaconda,postman" />
-</p>
-
 
 
 # 📊 GitHub Stats
