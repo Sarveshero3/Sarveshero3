@@ -8,29 +8,32 @@ Building intelligent systems that solve real-world problems.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;LLM+Application+Developer;RAG+%7C+NLP+%7C+Deep+Learning;Always+Learning.+Always+Building." />
 
-<img src="https://komarev.com/ghpvc/?username=Sarveshero3&style=for-the-badge&color=blue" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+<table>
+<tr>
+<td width="65%">
 
-I'm a final-year AI & Machine Learning undergraduate passionate about building intelligent software.
+## About Me
 
-Instead of just training models, I enjoy creating complete AI applications—from data pipelines and model development to deployment and APIs.
+I'm a final-year Artificial Intelligence & Machine Learning student who enjoys building intelligent software.
 
-Currently focused on
+My interests include Deep Learning, Large Language Models, NLP, and Retrieval-Augmented Generation (RAG). I like taking ideas from experimentation to deployment and learning how systems work internally.
 
-- 🧠 Deep Learning
-- 🤖 Large Language Models (LLMs)
-- 📚 Retrieval-Augmented Generation (RAG)
-- 💬 Natural Language Processing
-- ⚡ PyTorch
-- ☁️ AI Deployment
+Currently exploring transformer architectures while building practical AI projects.
 
-I enjoy understanding **how things work internally** rather than treating frameworks as black boxes.
+</td>
 
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -88,22 +91,6 @@ REST APIs • OpenAPI
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Sarveshero3&theme=tokyo-night)
 
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Sarveshero3&theme=tokyonight&no-frame=true&row=1)
-
-
----
-
-# 📚 Currently Learning
-
-- Advanced Neural Networks
-- Transformers
-- Diffusion Models
-- AI Agents
-- MLOps
 
 ---
 
