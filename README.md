@@ -1,22 +1,68 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<div align="center">
 
-🔭 Currently learning: Neural Networks and their applications.<br>    
+<img src="banner_github.png" alt="Banner" width="100%" />
 
-
-## 🌐 Socials:
-↖
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace%20API-HF-yellow?style=for-the-badge&logo=huggingface&logoColor=black")
-# 📊 GitHub Stats:
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=Sarveshero3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sarveshero3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarveshero3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=I+like+figuring+out+how+things+think.;I+build+AI+systems+that+reason%2C+not+just+respond.;Currently+obsessed+with+what%27s+happening+inside+the+matrix+multiplications.;Deep+understanding+%3E+shiny+demos." alt="Typing SVG" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+
+I got into computer science because I wanted to build things. I stayed because I got curious about *why* those things work. Somewhere between debugging a loop and reading about attention mechanisms at 2am, that curiosity turned into an obsession with how machines learn to reason.
+
+Most of my time goes into taking apart large language models and agentic systems piece by piece, retraining them, breaking them, rebuilding them, until the black box stops feeling like magic and starts feeling like math. I'd rather spend a week understanding one idea properly than skim ten tutorials and move on.
+
+When I'm not doing that, I'm probably solving a DSA problem I have no business being this invested in, or explaining a concept to someone else because that's usually how I find out if I actually understood it.
+
+<br>
+
+<div align="center">
+
+### currently
+
+learning how attention actually attends, one matrix at a time
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### the toolkit
+
+<img src="https://skillicons.dev/icons?i=python,java,r,cpp&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,huggingface&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,vite&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,docker,git,postman&theme=dark" />
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sarveshero3&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarveshero3&theme=tokyonight&hide_border=true&layout=compact" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Sarveshero3&theme=tokyonight&hide_border=true" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+*if you're reading this far, you're clearly the kind of person who reads the whole error message. respect.*
+
+</div>
