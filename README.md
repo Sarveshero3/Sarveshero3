@@ -42,7 +42,7 @@ Currently exploring transformer architectures while building practical AI projec
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,r,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb" />
 </p>
 
 ## AI / ML
