@@ -1,0 +1,178 @@
+<svg viewBox="0 0 1200 747" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06120f"/>
+      <stop offset="55%" stop-color="#071a16"/>
+      <stop offset="100%" stop-color="#06120f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="747" fill="url(#bgGrad2)"/>
+  
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.0s" fill="freeze"/>
+    <rect x="40" y="35" width="4" height="30" rx="2" fill="#60a5fa"/>
+    <text x="58" y="55" font-family="Fira Code, monospace" font-size="17" fill="#e5e7eb">final-year AI/ML student, still figuring out how attention actually works</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.15s" fill="freeze"/>
+    <rect x="40" y="77" width="4" height="30" rx="2" fill="#34d399"/>
+    <text x="58" y="97" font-family="Fira Code, monospace" font-size="17" fill="#e5e7eb">deep into LLMs, RAG pipelines, and multi-agent systems</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.3s" fill="freeze"/>
+    <rect x="40" y="119" width="4" height="30" rx="2" fill="#4ade80"/>
+    <text x="58" y="139" font-family="Fira Code, monospace" font-size="17" fill="#e5e7eb">I'd rather understand one paper properly than skim ten tutorials</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.45s" fill="freeze"/>
+    <rect x="40" y="161" width="4" height="30" rx="2" fill="#facc15"/>
+    <text x="58" y="181" font-family="Fira Code, monospace" font-size="17" fill="#e5e7eb">currently pulling transformer architecture apart piece by piece</text>
+  </g>
+  <line x1="40" y1="243" x2="1160" y2="243" stroke="#1f2937" stroke-width="1"/>
+  <text x="40" y="283" font-family="Fira Code, monospace" font-size="12" letter-spacing="2" fill="#60a5fa" opacity="0.85">LANGUAGES</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.9s" fill="freeze"/>
+    <rect x="40" y="309" width="92.7" height="30" rx="15.0" fill="#60a5fa" fill-opacity="0.14" stroke="#60a5fa" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="86.3" y="328.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#60a5fa">Python</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.93s" fill="freeze"/>
+    <rect x="142.7" y="309" width="73.8" height="30" rx="15.0" fill="#60a5fa" fill-opacity="0.14" stroke="#60a5fa" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="179.6" y="328.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#60a5fa">Java</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.96s" fill="freeze"/>
+    <rect x="226.5" y="309" width="45.5" height="30" rx="15.0" fill="#60a5fa" fill-opacity="0.14" stroke="#60a5fa" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="249.2" y="328.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#60a5fa">R</text>
+  </g><text x="40" y="365" font-family="Fira Code, monospace" font-size="12" letter-spacing="2" fill="#38bdf8" opacity="0.85">ML</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.99s" fill="freeze"/>
+    <rect x="40" y="391" width="102.1" height="30" rx="15.0" fill="#38bdf8" fill-opacity="0.14" stroke="#38bdf8" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="91.1" y="410.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#38bdf8">PyTorch</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.02s" fill="freeze"/>
+    <rect x="152.14999999999998" y="391" width="130.5" height="30" rx="15.0" fill="#38bdf8" fill-opacity="0.14" stroke="#38bdf8" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="217.4" y="410.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#38bdf8">TensorFlow</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.05s" fill="freeze"/>
+    <rect x="292.65" y="391" width="149.4" height="30" rx="15.0" fill="#38bdf8" fill-opacity="0.14" stroke="#38bdf8" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="367.3" y="410.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#38bdf8">scikit-learn</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.08s" fill="freeze"/>
+    <rect x="452.04999999999995" y="391" width="92.7" height="30" rx="15.0" fill="#38bdf8" fill-opacity="0.14" stroke="#38bdf8" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="498.4" y="410.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#38bdf8">Pandas</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.11s" fill="freeze"/>
+    <rect x="554.75" y="391" width="83.2" height="30" rx="15.0" fill="#38bdf8" fill-opacity="0.14" stroke="#38bdf8" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="596.4" y="410.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#38bdf8">NumPy</text>
+  </g><text x="40" y="447" font-family="Fira Code, monospace" font-size="12" letter-spacing="2" fill="#34d399" opacity="0.85">LLMS &amp; AGENTS</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.14s" fill="freeze"/>
+    <rect x="40" y="473" width="121.0" height="30" rx="15.0" fill="#34d399" fill-opacity="0.14" stroke="#34d399" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="100.5" y="492.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#34d399">LangChain</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.17s" fill="freeze"/>
+    <rect x="171.05" y="473" width="111.6" height="30" rx="15.0" fill="#34d399" fill-opacity="0.14" stroke="#34d399" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="226.9" y="492.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#34d399">Groq API</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.2s" fill="freeze"/>
+    <rect x="292.65" y="473" width="64.3" height="30" rx="15.0" fill="#34d399" fill-opacity="0.14" stroke="#34d399" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="324.8" y="492.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#34d399">RAG</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.23s" fill="freeze"/>
+    <rect x="367.0" y="473" width="111.6" height="30" rx="15.0" fill="#34d399" fill-opacity="0.14" stroke="#34d399" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="422.8" y="492.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#34d399">GraphRAG</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.26s" fill="freeze"/>
+    <rect x="488.6" y="473" width="92.7" height="30" rx="15.0" fill="#34d399" fill-opacity="0.14" stroke="#34d399" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="535.0" y="492.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#34d399">Qdrant</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.29s" fill="freeze"/>
+    <rect x="591.3" y="473" width="234.4" height="30" rx="15.0" fill="#34d399" fill-opacity="0.14" stroke="#34d399" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="708.5" y="492.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#34d399">Sentence-Transformers</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.32s" fill="freeze"/>
+    <rect x="835.75" y="473" width="206.1" height="30" rx="15.0" fill="#34d399" fill-opacity="0.14" stroke="#34d399" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="938.8" y="492.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#34d399">Prompt Engineering</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.35s" fill="freeze"/>
+    <rect x="40" y="517" width="177.8" height="30" rx="15.0" fill="#34d399" fill-opacity="0.14" stroke="#34d399" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="128.9" y="536.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#34d399">Agent Workflows</text>
+  </g><text x="40" y="573" font-family="Fira Code, monospace" font-size="12" letter-spacing="2" fill="#4ade80" opacity="0.85">BACKEND &amp; CLOUD</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.38s" fill="freeze"/>
+    <rect x="40" y="599" width="102.1" height="30" rx="15.0" fill="#4ade80" fill-opacity="0.14" stroke="#4ade80" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="91.1" y="618.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#4ade80">FastAPI</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.41s" fill="freeze"/>
+    <rect x="152.14999999999998" y="599" width="121.0" height="30" rx="15.0" fill="#4ade80" fill-opacity="0.14" stroke="#4ade80" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="212.7" y="618.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#4ade80">REST APIs</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.44s" fill="freeze"/>
+    <rect x="283.2" y="599" width="83.2" height="30" rx="15.0" fill="#4ade80" fill-opacity="0.14" stroke="#4ade80" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="324.8" y="618.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#4ade80">MySQL</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.47s" fill="freeze"/>
+    <rect x="376.45" y="599" width="130.5" height="30" rx="15.0" fill="#4ade80" fill-opacity="0.14" stroke="#4ade80" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="441.7" y="618.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#4ade80">ClickHouse</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.5s" fill="freeze"/>
+    <rect x="516.95" y="599" width="92.7" height="30" rx="15.0" fill="#4ade80" fill-opacity="0.14" stroke="#4ade80" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="563.3" y="618.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#4ade80">Docker</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.53s" fill="freeze"/>
+    <rect x="619.6500000000001" y="599" width="130.5" height="30" rx="15.0" fill="#4ade80" fill-opacity="0.14" stroke="#4ade80" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="684.9" y="618.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#4ade80">Kubernetes</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.56s" fill="freeze"/>
+    <rect x="760.1500000000001" y="599" width="64.3" height="30" rx="15.0" fill="#4ade80" fill-opacity="0.14" stroke="#4ade80" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="792.3" y="618.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#4ade80">AWS</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.59s" fill="freeze"/>
+    <rect x="834.5000000000001" y="599" width="64.3" height="30" rx="15.0" fill="#4ade80" fill-opacity="0.14" stroke="#4ade80" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="866.7" y="618.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#4ade80">Git</text>
+  </g><text x="40" y="655" font-family="Fira Code, monospace" font-size="12" letter-spacing="2" fill="#facc15" opacity="0.85">FRONTEND &amp; ANALYTICS</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.62s" fill="freeze"/>
+    <rect x="40" y="681" width="83.2" height="30" rx="15.0" fill="#facc15" fill-opacity="0.14" stroke="#facc15" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="81.6" y="700.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#facc15">React</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.65s" fill="freeze"/>
+    <rect x="133.25" y="681" width="102.1" height="30" rx="15.0" fill="#facc15" fill-opacity="0.14" stroke="#facc15" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="184.3" y="700.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#facc15">Next.js</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.68s" fill="freeze"/>
+    <rect x="245.39999999999998" y="681" width="102.1" height="30" rx="15.0" fill="#facc15" fill-opacity="0.14" stroke="#facc15" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="296.5" y="700.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#facc15">PowerBI</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.71s" fill="freeze"/>
+    <rect x="357.54999999999995" y="681" width="130.5" height="30" rx="15.0" fill="#facc15" fill-opacity="0.14" stroke="#facc15" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="422.8" y="700.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#facc15">Matplotlib</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.74s" fill="freeze"/>
+    <rect x="498.04999999999995" y="681" width="102.1" height="30" rx="15.0" fill="#facc15" fill-opacity="0.14" stroke="#facc15" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="549.1" y="700.5" text-anchor="middle" font-family="Fira Code, monospace" font-size="13.5" font-weight="700" fill="#facc15">Seaborn</text>
+  </g>
+</svg>
