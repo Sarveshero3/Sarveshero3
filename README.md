@@ -1,72 +1,48 @@
 <div align="center">
 
-# Hi there 👋 I'm Sarvesh
+# Hey, I'm Sarvesh
 
-### AI • Machine Learning • LLM Engineering • Backend
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer;LLM+Application+Developer;RAG+%7C+Agentic+AI+%7C+Deep+Learning;Always+learning.+Always+building." alt="Typing SVG" />
 
-Building intelligent systems that solve real-world problems.
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;LLM+Application+Developer;RAG+%7C+NLP+%7C+Deep+Learning;Always+Learning.+Always+Building." />
+<img src="https://img.shields.io/badge/-LLMs-6a11cb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-RAG_Systems-7c3aed?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Agentic_AI-4a00e0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Transformers-2575fc?style=for-the-badge" />
 
+</div>
+
+<br>
+
+- final-year AI/ML student, still figuring out how attention actually works
+- deep into LLMs, RAG pipelines, and multi-agent systems
+- I'd rather understand one paper properly than skim ten tutorials
+- currently pulling transformer architecture apart piece by piece
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,py,fastapi,react,vite,ts,postman&theme=dark" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sarveshero3&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarveshero3&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="65%">
+<br>
 
-## About Me
-
-I'm a final-year Artificial Intelligence & Machine Learning student who enjoys building intelligent software.
-
-My interests include Deep Learning, Large Language Models, NLP, and Retrieval-Augmented Generation (RAG). I like taking ideas from experimentation to deployment and learning how systems work internally.
-
-Currently exploring transformer architectures while building practical AI projects.
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-
-</td>
-</tr>
-</table>
-
----
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,tensorflow,fastapi,mongodb,mysql,docker,aws,git,github&theme=dark" />
+if any of this resonates, feel free to star something or say hi.
 </p>
-
-
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Sarveshero3&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sarveshero3&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarveshero3&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Sarveshero3&theme=tokyo-night)
-
-
----
-
-<div align="center">
-
-### Thanks for visiting!
-
-If you like my work, consider ⭐ starring a repository.
-
-</div>
