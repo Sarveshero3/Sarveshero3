@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Sarvesh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Sarvesh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Sarvesh" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer;LLM+Application+Developer;RAG+%7C+Agentic+AI+%7C+Deep+Learning;Always+learning.+Always+building." alt="Typing SVG" />
 
@@ -30,19 +30,8 @@
 
 <br>
 
----
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sarveshero3&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarveshero3&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<br>
-
 <p align="center">
 if any of this resonates, feel free to star something or say hi.
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer" width="100%" />
