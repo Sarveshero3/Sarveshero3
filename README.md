@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="./stack.svg" width="100%" alt="focus and stack" />
+<img src="./stack.svg" width="100%" alt="focus and tech stack" />
 
 </div>
 
