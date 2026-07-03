@@ -6,6 +6,10 @@
 
 <img src="./stack.svg" width="100%" alt="focus and tech stack" />
 
+<br><br>
+
+<img src="./stats.svg" width="100%" alt="github stats" />
+
 </div>
 
 <br>
