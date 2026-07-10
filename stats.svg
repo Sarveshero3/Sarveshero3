@@ -14,7 +14,7 @@
     <rect x="-22.0" y="0" width="70" height="120" fill="#60a5fa" opacity="0.16" clip-path="url(#clip0)">
       <animate attributeName="x" from="-22.0" to="313.5" dur="3.2s" begin="0.00s" repeatCount="indefinite"/>
     </rect>
-    <text x="180.8" y="58" text-anchor="middle" font-family="Fira Code, monospace" font-size="30" font-weight="700" fill="#60a5fa">21</text>
+    <text x="180.8" y="58" text-anchor="middle" font-family="Fira Code, monospace" font-size="30" font-weight="700" fill="#60a5fa">22</text>
     <text x="180.8" y="88" text-anchor="middle" font-family="Fira Code, monospace" font-size="11" letter-spacing="1.5" fill="#60a5fa" opacity="0.8">PUBLIC REPOS</text>
   </g>
   <g>
@@ -23,7 +23,7 @@
     <rect x="257.5" y="0" width="70" height="120" fill="#34d399" opacity="0.16" clip-path="url(#clip1)">
       <animate attributeName="x" from="257.5" to="593.0" dur="3.2s" begin="0.45s" repeatCount="indefinite"/>
     </rect>
-    <text x="460.2" y="58" text-anchor="middle" font-family="Fira Code, monospace" font-size="30" font-weight="700" fill="#34d399">176</text>
+    <text x="460.2" y="58" text-anchor="middle" font-family="Fira Code, monospace" font-size="30" font-weight="700" fill="#34d399">177</text>
     <text x="460.2" y="88" text-anchor="middle" font-family="Fira Code, monospace" font-size="11" letter-spacing="1.5" fill="#34d399" opacity="0.8">TOTAL COMMITS</text>
   </g>
   <g>
@@ -41,7 +41,7 @@
     <rect x="816.5" y="0" width="70" height="120" fill="#facc15" opacity="0.16" clip-path="url(#clip3)">
       <animate attributeName="x" from="816.5" to="1152.0" dur="3.2s" begin="1.35s" repeatCount="indefinite"/>
     </rect>
-    <text x="1019.2" y="58" text-anchor="middle" font-family="Fira Code, monospace" font-size="16" font-weight="700" fill="#facc15">xthermal-ai-assessment</text>
+    <text x="1019.2" y="58" text-anchor="middle" font-family="Fira Code, monospace" font-size="30" font-weight="700" fill="#facc15">MedGuard</text>
     <text x="1019.2" y="88" text-anchor="middle" font-family="Fira Code, monospace" font-size="11" letter-spacing="1.5" fill="#facc15" opacity="0.8">LATEST REPO</text>
   </g>
 </svg>
